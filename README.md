@@ -1,6 +1,6 @@
                                                     Implementation Overview of In-Memory File System
                                     
-Design Philosophy
+                    Design Philosophy
 The primary goal was to create a lightweight, easy-to-use, in-memory file system in Python, emphasizing simplicity, clarity, and standard file system functionalities.
 
 
