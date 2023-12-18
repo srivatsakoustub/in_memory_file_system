@@ -1,10 +1,11 @@
-                                                    Implementation Overview of In-Memory File System
+                           Implementation Overview of In-Memory File System
                                     
                     Design Philosophy
 The primary goal was to create a lightweight, easy-to-use, in-memory file system in Python, emphasizing simplicity, clarity, and standard file system functionalities.
 
 
 Data Structures and Classes :-
+
 File Class: Represents a file with two attributes: name (string) and content (string).
 
 Directory Class: Represents a directory. It has name (string) and children (dictionary), where keys are names of files/directories, and values are File or Directory instances.
